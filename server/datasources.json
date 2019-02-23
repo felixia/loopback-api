@@ -1,0 +1,1 @@
+{"db":{"name":"db","connector":"memory"},"mongoDS":{"host":"ds251598.mlab.com","port":51598,"url":"mongodb://felix:pass123@ds251598.mlab.com:51598/online_store","database":"online_store","password":"pass123","name":"mongoDS","connector":"mongodb","user":"felix"}}
